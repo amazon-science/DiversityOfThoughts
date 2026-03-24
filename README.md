@@ -4,7 +4,7 @@ Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Official implementation for ICLR 2025 paper [Enhancing Language Model Agents using Diversity of Thoughts](https://openreview.net/forum?id=ZsP3YbYeE9).
 
-Code adapted from [Reflexion](https://github.com/noahshinn024/reflexion/tree/main)
+Code adapted from Reflexion
 
 ## Setup
 1. Install required dependencies into your environment:
